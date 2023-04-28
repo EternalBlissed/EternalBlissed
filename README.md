@@ -22,6 +22,7 @@
 ## JS
 - Node.js 🟢
 - PHP 🐘
+- PostgreSQL 🐘
 
 (I know more but I forgot them 😅)
 
