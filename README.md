@@ -38,5 +38,5 @@
 - <span style="color:white;text-decoration:underline">[YouTube](https://www.youtube.com/channel/UC4S7ciPiSuz_tFJsl3bIRPw)</span> 🔴⚪
 - <span style="color:white;text-decoration:underline">[Discord](https://discord.com/users/497682001239736329)</span> 💬
 - <span style="color:white;text-decoration:underline">[Discords Bio](https://discords.com/bio/p/EternalBliss)</span> 🟣
-- <span style="color:white;text-decoration:underline">[My Website thing (VERY OLD)](https://thatmarcboi.github.io/Marcs-WebsiteV1/)</span> 🌐
+- <span style="color:white;text-decoration:underline">[My Website thing (VERY OLD AND CRINGE)](https://thatmarcboi.github.io/Marcs-WebsiteV1/)</span> 🌐
 
