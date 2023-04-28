@@ -23,6 +23,8 @@
 - Node.js 🟢
 - PHP 🐘
 
+(I know more but I forgot them 😅)
+
 # Specializations 🔍
 
 - Front-end web development 💻
