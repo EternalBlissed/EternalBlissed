@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Discord.py
 - 🚀 I’m passionate about front-end and back-end web development
-- 🎮 I also enjoy creating experiences in Roblox and Discord bots
+- 🎮 I also enjoy scripting and building experiences in Roblox and Discord bots
 - 🤝 I’m looking for Web and Lua based Work
 
 # Code Languages 💻
