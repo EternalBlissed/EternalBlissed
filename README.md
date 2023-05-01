@@ -23,6 +23,7 @@
 - Node.js 🟢
 - PHP 🐘
 - PostgreSQL 🐘
+- Firebase 🦊
 
 (I know more but I forgot them 😅)
 
