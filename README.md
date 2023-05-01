@@ -30,7 +30,6 @@
 # Specializations 🔍
 
 - Front-end web development 💻
-- Back-end web development [Working on] 🌐
 - Web-based game development in JS 🎮
 - Game development in Lua 🕹️
 - Discord bots in Discord.py 🤖
