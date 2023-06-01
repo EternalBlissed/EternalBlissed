@@ -1,8 +1,8 @@
 ## Hi, my name is Marc, I'm a Developer based in Sydney, Australia. Here are some things about me:
 
-- 🌱 I’m currently learning Discord.py
+- 🌱 I’m currently learning React.js
 - 🚀 I’m passionate about front-end web development
-- 🎮 I also enjoy scripting and building experiences in Roblox and Discord bots
+- 🎮 I also enjoy scripting and building experiences in Roblox
 - 🤝 I’m looking for Web and Lua based Work
 
 # Code Languages 💻
