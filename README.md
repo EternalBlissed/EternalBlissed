@@ -7,4 +7,4 @@
   </table>
 </center>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bluenote10.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thatmarcboi.visitor-badge)
