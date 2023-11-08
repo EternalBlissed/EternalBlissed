@@ -86,7 +86,7 @@
 - **VSCode** - `Advanced`
 
 ### Platforms and Services
-- **Discord** - `Advanced`
+- **Discord API** - `Advanced`
 - **Firebase** - `Beginner - Intermediate`
 - **PowerShell** - `Advanced`
 - **Replit** - `Advanced`
