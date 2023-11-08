@@ -53,34 +53,34 @@
 ### Programming Languages
 - **Bash** - `Advanced`
 - **C** - `Intermediate`
-- **C++** - `Beginner - Intermediate`
-- **C#** - `Beginner`
-- **CSS** - `Intermediate`
+- **C++** - `Intermediate`
+- **C#** - `Intermediate`
+- **CSS** - `Advanced`
 - **HTML** - `Advanced`
 - **Java** - `Beginner`
-- **JavaScript** - `Intermediate - Advanced`
-- **Lua** - `Beginner - Intermediate`
+- **JavaScript** - `Advanced`
+- **Lua** - `Intermediate`
 - **PHP** - `Beginner`
 - **Python** - `Advanced`
-- **Rust** - `Beginner`
-- **TypeScript** - `Beginner - Intermediate`
+- **Rust** - `Beginner - Intermediate`
+- **TypeScript** - `Intermediate`
 
 ### Frameworks and Libraries
-- **.NET** - `Beginner`
+- **.NET** - `Advanced`
 - **Flask** - `Beginner`
-- **Next.js** - `Intermediate`
-- **React** - `Intermediate`
-- **SASS** - `Intermediate - Advanced`
+- **Next.js** - `Intermediate - Advanced`
+- **React** - `Intermediate - Advanced`
+- **SASS** - `Intermediate`
 
 ### Databases
-- **MongoDB** - `Intermediate`
+- **MongoDB** - `Intermediate - Advanced`
 - **SQLite** - `Advanced`
 
 ### Development Tools and Editors
 - **CMake** - `Intermediate`
 - **Docker** - `Beginner`
-- **Git** - `Intermediate - Advanced`
-- **GitHub** - `Intermediate - Advanced`
+- **Git** - ` Advanced`
+- **GitHub** - `Advanced`
 - **Markdown** - `Advanced`
 - **Visual Studio** - `Intermediate`
 - **VSCode** - `Advanced`
