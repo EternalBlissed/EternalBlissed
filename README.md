@@ -1,3 +1,3 @@
 <p align="center">
-  <a href="https://eternalbliss.lol">eternalbliss.lol</a>
+  <a href="https://eternalbliss.lol"> 【﻿ｅｔｅｒｎａｌ】 </a>
 </p>
